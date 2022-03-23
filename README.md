@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/het-patel21/)
+
+
+![Github badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/Het21)
+
 <!--
 **Het21/Het21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
