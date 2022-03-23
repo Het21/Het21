@@ -24,4 +24,4 @@ My technical proficiencies include:
 **Cloud Experience**: Firebase, IBM Cloud
 
 
-![Het21](https://komarev.com/ghpvc/?style=for-the-badge&username=Het21)
+![Het21](https://komarev.com/ghpvc/?style=flat-square&username=Het21)
