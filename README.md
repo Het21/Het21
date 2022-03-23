@@ -11,7 +11,7 @@ I am currently in search of new opportunities. You'll find me working on differe
 
 My technical proficiencies include: 
 
-**Programming Languages**: Python, Java, R, C++
+**Tools & Technologies**: Python, Java, R, C++, Visual Studio Code, Eclipse IDE
 
 **Database**: SQL - MySQL, Oracle | NoSQL - MongoDB, Cassandra
 
@@ -22,8 +22,6 @@ My technical proficiencies include:
 **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PySpark
 
 **Cloud Experience**: Firebase, IBM Cloud
-
-**Tools**: Visual Studio Code, Eclipse IDE
 
 ![Het21](https://komarev.com/ghpvc/?username=Het21)
 
