@@ -24,3 +24,6 @@ My technical proficiencies include:
 **Cloud Experience**: Firebase, IBM Cloud
 
 **Tools**: Visual Studio Code, Eclipse IDE
+
+![Het21](https://komarev.com/ghpvc/?username=Het21)
+
