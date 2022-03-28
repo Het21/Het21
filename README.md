@@ -19,7 +19,7 @@ My technical proficiencies include:
 
 **Web technologies & Frameworks**: Angular 7, Bootstrap, Typescript, HTML, CSS, JavaScript, JSP, Django, Flask
 
-**Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PySpark
+**Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PySpark, Keras
 
 **Cloud Experience**: Firebase, IBM Cloud
 
