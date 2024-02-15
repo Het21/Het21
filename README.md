@@ -7,7 +7,7 @@
 ## Hi there 👋
 I am a software developer working on ELK stack & ML stuff with the latest CI/CD technologies. My background ranges from Computer Science to Big Data and I did my co-op as a Full Stack Developer.
 
-You'll either find me working on different projects or researching case studies and research papers in order to keep myself updated. I am really passionate about the work I do. I am a detail-oriented, responsible and committed individual, with a get-it-done-efficiently spirit and often tend to take an analytical approach to problem solving.
+You'll either find me working on different projects or researching case studies and research papers in order to keep myself updated. I am really passionate about the work I do and often tend to take an analytical approach to problem solving.
 
 My technical proficiencies include: 
 
