@@ -1,4 +1,4 @@
-# Het Patel - Software Developer | Big Data | Computer Science
+# Het Patel - Senior Software Developer | Big Data | Computer Science
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/het-patel21/)](https://www.linkedin.com/in/het-patel21/)
 [![Gmail Badge](https://img.shields.io/badge/-hetpatel8520@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hetpatel8520@gmail.com)](mailto:hetpatel8520@gmail.com)
