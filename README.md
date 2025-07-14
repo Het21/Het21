@@ -5,6 +5,6 @@
 [![GitHub Badge](https://img.shields.io/badge/-Het21-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/Het21)](https://github.com/Het21)
 
 ## Hi there 👋
-I am an experienced senior software developer working on ELK stack & ML stuff with the latest CI/CD technologies. My background ranges from Computer Science to Big Data and I did my co-op as a Full Stack Developer.
+I am an experienced senior software developer working on ELK stack & ML stuff with the latest CI/CD technologies. My background ranges from Computer Science to Big Data.
 
-You'll either find me working on different projects or researching case studies and research papers in order to keep myself updated. I am really passionate about the work I do and often tend to take an analytical approach to problem solving.
+You'll either find me working on different projects or researching case studies and research papers to keep myself updated. I am really passionate about the work I do and often tend to take an analytical approach to problem solving.
