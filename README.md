@@ -5,6 +5,6 @@
 [![GitHub Badge](https://img.shields.io/badge/-Het21-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/Het21)](https://github.com/Het21)
 
 ## Hi there 👋
-I am an experienced senior software developer working on ELK stack & ML stuff with the latest CI/CD technologies. My background ranges from Computer Science to Big Data.
+I am an experienced senior software developer working on ML & AI stuff with the latest CI/CD technologies. My academic background is in Computer Science and Big Data and my work background is ML & AI.
 
 You'll either find me working on different projects or researching case studies and research papers to keep myself updated. I am really passionate about the work I do and often tend to take an analytical approach to problem solving.
